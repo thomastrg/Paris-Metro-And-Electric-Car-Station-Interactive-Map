@@ -2,8 +2,9 @@
 
 ## Introduction 
 
-This repository hosts a project of interactives maps permitting to locate metro & RER stations in Paris and its suburbs. This map will allow tourists to find their way around the city and see which line they should take to get to a destination. <br>  <br> **This website is accessible through this link : https://thomastrg.github.io/Paris-Metro-And-Electric-Car-Station-Interactive-Map/paris_metro.html** <br> <br> 
-You will also find in this repository an interactive map which permits to find Electric charging station, taxis & parkings in real time in Paris. So that people can easily find a station to charge their elecric cars.
+This repository hosts a project of interactives maps permitting to locate metro & RER stations in Paris and its suburbs. This map will allow tourists to find their way around the city and see which line they should take to get to a destination. <br>  <br> **This website for metro lines is accessible through this link : https://thomastrg.github.io/Paris-Metro-And-Electric-Car-Station-Interactive-Map/paris_metro.html** <br>  **This website for Autolibs, Parkings, Gas and Electric charging car stations is accessible through this link : https://thomastrg.github.io/Paris-Metro-And-Electric-Car-Station-Interactive-Map/paris_metro.html** <br> <br>  
+
+You will also find in this repository an interactive map which permits to find Electric charging station, taxis & parkings in real time in Paris. So that people can easily find a station to charge their elecric cars and know if there is availability to charge cars.
 
 <br> 
 <p align="center">
